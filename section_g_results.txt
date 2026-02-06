@@ -1,0 +1,21 @@
+================================================================================
+SECTION G RESULTS - Student ID: 22424162
+================================================================================
+
+H(Default) = 0.9950 bits
+  p(Default=0) = 0.4583
+  p(Default=1) = 0.5417
+
+Credit_Score:
+  IG = 0.0655 bits
+  H(Default|Credit_Score) = 0.9294 bits
+
+Employment:
+  IG = 0.0892 bits
+  H(Default|Employment) = 0.9058 bits
+
+Debt_Level:
+  IG = 0.1738 bits
+  H(Default|Debt_Level) = 0.8212 bits
+
+Root Node: Debt_Level
